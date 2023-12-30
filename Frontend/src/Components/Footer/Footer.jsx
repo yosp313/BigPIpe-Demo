@@ -5,13 +5,9 @@ export default function Footer(){
         <footer>
             <ul>
                 <li>
-                    <image src= ""/>
-                    <p>aaaa</p>
+                    <p>Copyright @Youssef Ayman - Youssef Amr</p>
                 </li>
-                <li>
-                    <image src= ""/>
-                    <p>aaaa</p>
-                </li>
+                
             </ul>
         </footer>
         </>

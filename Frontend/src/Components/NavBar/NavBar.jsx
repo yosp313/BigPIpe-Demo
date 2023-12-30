@@ -5,7 +5,7 @@ export default function NavBar(){
     return (
         <>
             <nav className="navBar">
-                <a href="/" className="site-title">BigPipe</a>
+                <a href="/" className="site-title">SGS</a>
                 <ul>
                     <li>
                         <a href="/Team">Team</a>
