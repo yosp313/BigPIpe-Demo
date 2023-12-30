@@ -6,6 +6,10 @@ This repository contains a web application that implements the BigPipe architect
 
 BigPipe is a web application development concept that allows for progressive rendering of web pages. This project demonstrates the implementation of BigPipe architecture in conjunction with React, providing a more efficient way to serve web pages by asynchronously rendering and streaming components.
 
+## Team
+
+Made by Youssef Ayman and Youssef Amr
+
 ## Features
 
 - Asynchronous rendering of webpage components.
